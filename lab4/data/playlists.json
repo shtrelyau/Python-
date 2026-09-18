@@ -1,0 +1,42 @@
+[
+    {
+        "name": "дом",
+        "tracks": [
+            {
+                "title": "сети",
+                "artist": "гонфлад",
+                "genre": "реп",
+                "duration": 345
+            },
+            {
+                "title": "вселенная бесконечна",
+                "artist": "нойз",
+                "genre": "реп",
+                "duration": 567
+            }
+        ]
+    },
+    {
+        "name": "путешествия",
+        "tracks": [
+            {
+                "title": "лесник",
+                "artist": "киш",
+                "genre": "рок",
+                "duration": 398
+            },
+            {
+                "title": "пепел",
+                "artist": "ария",
+                "genre": "рок",
+                "duration": 434
+            },
+            {
+                "title": "пммл",
+                "artist": "Земфира",
+                "genre": "рок",
+                "duration": 301
+            }
+        ]
+    }
+]
